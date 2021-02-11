@@ -4,5 +4,4 @@ void main()
 {
 clrscr()
 printf("print my name");
-getch();
 }
